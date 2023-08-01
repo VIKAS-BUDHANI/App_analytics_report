@@ -20,3 +20,6 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
   Users                                23422
   New users                            22872
+
+  It should be same in values.
+  
