@@ -22,4 +22,11 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
   New users                            22872
 
   It should be same in values.
-  
+
+  After considering the data discrepancy.
+
+  ##User Installation & Engagement Performance Analysis:
+  * Top 10 Pages and Screen according to number of views.
+
+  ![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/40fa3f8c-ff4d-4962-9881-fdd836516f63)
+
