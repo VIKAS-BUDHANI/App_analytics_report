@@ -50,6 +50,8 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ![newplot (2)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/8bc5b03d-0940-4cd4-b216-31bca674330e)
 
 ### Demographic report
+![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/e87c5454-9237-48dd-bbb2-e661f950b3ae)
+
 * India is the Top country that has the highest number of users and new users, 23024 and 22528. It means the application is for Indian people and secondly united states 272 and 213.
   
 ![newplot (3)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/0b9868a1-0f49-4bcc-ba4d-968e11112ba1)
