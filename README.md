@@ -12,8 +12,11 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 * unknown category in age category.
 * In pages and screen reports (not set) data is specified.
 * Data user by age :
-   Users                                                      26342
-   New users                                                  22872
+
+   Users                               26342
+   New users                           22872
+
   Data user by gender :
-  Users                                                                    23422
-  New users                                                                22872
+
+  Users                                23422
+  New users                            22872
