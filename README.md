@@ -29,3 +29,6 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
   ![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/40fa3f8c-ff4d-4962-9881-fdd836516f63)
 
+  * Below 10 pages and screens by views. that should be controlled or Optimized. least UI alert controller, cam image picker camera view controller.
+
+![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/b19c80b4-85e6-4bb8-9f0a-12672ebbb5ca)
