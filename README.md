@@ -56,3 +56,9 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
   
 ![newplot (3)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/0b9868a1-0f49-4bcc-ba4d-968e11112ba1)
 
+### Citiwise report
+![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/e89d16aa-d859-4e4d-940c-18842ea16f15)
+
+* Top 10 cities of India.
+![newplot (4)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/a7326e5b-80dc-4bae-a3a5-7126d3a70afc)
+
