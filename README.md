@@ -27,6 +27,8 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
   ## User Installation & Engagement Performance Analysis:
 
   ### Pages and screens report
+  ![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/873dd9e5-6399-46e7-8c57-23a45558af18)
+  
   * Top 10 Pages and Screens according to number of views. Flutter is the highest at 1,56,708. The second    main activity is at 44,326 and the third is at 18,514.
 
 ![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/3d18b753-0f9c-47d9-8c9a-3e1ca0b73be2)
@@ -46,9 +48,6 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ![newplot (2)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/8bc5b03d-0940-4cd4-b216-31bca674330e)
 
 ### Demographic report
-
-![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/873dd9e5-6399-46e7-8c57-23a45558af18)
-
 * India is the Top country that has the highest number of users and new users, 23024 and 22528. It means the application is for Indian people and secondly united states 272 and 213.
   
 ![newplot (3)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/0b9868a1-0f49-4bcc-ba4d-968e11112ba1)
