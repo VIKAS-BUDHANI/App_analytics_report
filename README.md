@@ -40,3 +40,9 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
 ![newplot (1)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/419c12f3-0dec-4f53-802a-8763c6aa8de6)
 
+### User Acquisition
+* Display has been the most successful channel for acquiring new users, contributing to 43.5% of the total new user acquisition. Organic search closely follows with 33.5% of new users, indicating a strong organic presence. However, the paid search acquisition percentage (13.2%) could be improved further through optimized ad campaigns and keyword targeting. Direct acquisition (8.32%) showcases some brand recognition but can be boosted by implementing referral programs or loyalty incentives. The unassigned category (1.42%) highlights the need for better tracking and attribution methods to understand and optimize this traffic source. Organic social (0.0437%) also presents an untapped opportunity; fostering a stronger social media presence, creating engaging content, and collaborating with influencers can elevate its performance and attract more new users to the platform. Overall, continuous monitoring and adaptation of acquisition strategies are crucial to capitalize on successful channels and identify growth areas for sustained user acquisition.
+
+![newplot (2)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/8bc5b03d-0940-4cd4-b216-31bca674330e)
+
+  
