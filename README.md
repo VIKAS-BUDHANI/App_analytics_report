@@ -27,7 +27,7 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
   ## User Installation & Engagement Performance Analysis:
   * Top 10 Pages and Screens according to number of views. Flutter is the highest at 1,56,708. Second    mainacitvity at 44,326 and third at 18,514.
 
-  ![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/40fa3f8c-ff4d-4962-9881-fdd836516f63)
+![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/3d18b753-0f9c-47d9-8c9a-3e1ca0b73be2)
 
   * Below 10 pages and screens by views. that should be controlled or Optimized. least UI alert controller, cam image picker camera view controller.
 
