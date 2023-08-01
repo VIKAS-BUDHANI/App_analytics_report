@@ -36,4 +36,7 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ![newplot](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/b19c80b4-85e6-4bb8-9f0a-12672ebbb5ca)
 
 ### Traffic source
+ * Traffic source percentage unassigned 45.5%, display 21.6%, organic search 17.3%, direct 9.08%, paid search 6.53% , organic social 0.024%. tracking and assigning the source of unassigned traffic is crucial. Invest in targeted display ads and SEO for improved display and organic search results. Strengthen brand recognition to boost direct traffic. Optimize paid search campaigns and prioritize social media engagement to tap into their full potential. Regularly monitor traffic sources and adapt strategies to achieve sustainable growth and success.
+
+![newplot (1)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/419c12f3-0dec-4f53-802a-8763c6aa8de6)
 
