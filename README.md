@@ -81,4 +81,10 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
 ![newplot (6)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ffd7665d-6c25-48ea-9801-7757a1905e60)
 
+### User by language
+![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ed15a4f5-9e8f-4b91-8176-3f8f220d89c8)
+
+* English is the popular language for the user and new users. so we have to put our application's default language English.
+![newplot (7)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/b6168378-72dc-4750-8862-065c98bf75e7)
+
   
