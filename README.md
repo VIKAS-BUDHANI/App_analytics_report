@@ -65,17 +65,18 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ### Gender Report.
 ![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/72340eff-fbe3-414a-bc73-a6a5dd6e55e7)
 
-* User Gender percentage-wise report. already discuss about the unidentified category by "Unknown" have to be clear.
+* User Gender percentage-wise report. already discuss the unidentified category by "Unknown" have to be clear.
 [newplot (11)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/2f3e3882-8221-448e-a9f4-89e18a383aa0)
 
 * New user percentages by gender.
 ![newplot (12)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/dec5f479-64a0-4efe-a2e3-05c1d38521b4)
 
-* Average time spending in app.
+* Average time spent in the app.
 ![newplot (13)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/90f3defc-d9d9-424f-9c85-4d71222e88d7)
 
 ### User by age.
 ![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ae27b997-f244-4604-8746-6d9ea46835bf)
+
 * Based on the available data, the "unknown" category appears to have the highest number of users (14,303) and new users (13,636). To better understand and classify this category, further investigation and data analysis are needed.
 * Apart from the "unknown" category, there is a notable introduction of users and new users from the 18-20 age group. This demographic represents a significant potential audience for the platform.
 * To capitalize on this opportunity and improve user acquisition from this age group, consider the following suggestions:
