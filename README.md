@@ -87,4 +87,8 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 * English is the popular language for the user and new users. so we have to put our application's default language English.
 ![newplot (7)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/b6168378-72dc-4750-8862-065c98bf75e7)
 
+### Top 10 interests of users for installing applications.
+* We can improve or keep maintain the area of user's interest.
+![newplot (8)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/de697b84-5b62-4800-989e-27e0f447a2b5)
+
   
