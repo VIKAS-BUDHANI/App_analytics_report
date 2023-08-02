@@ -74,4 +74,11 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
 ![newplot (5)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/61e8672d-7e07-44ca-8cc7-ae899730cdeb)
 
+* The "unknown" category shows a considerable number of engaged sessions (24,976) and event counts (817,501), indicating a substantial user base from unspecified age groups. To gain a clearer understanding of this category, efforts should be made to track and assign users accurately to their respective age groups through user surveys, account preferences, or user profiles.
+* Among the identified age groups, the 18-24 age category exhibits a promising level of engagement with 7,291 engaged sessions and 309,328 event counts.
+* The 25-34 age group exhibits reasonable engagement with 3,749 engaged sessions and 90,074 event counts.
+* Regularly monitor user feedback, behavior, and analytics to adapt strategies and content to meet the diverse needs of each age group effectively. Improving the overall user experience, optimizing the platform for mobile users, and leveraging data-driven insights are key to driving engagement and growth across all age groups.
+
+![newplot (6)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ffd7665d-6c25-48ea-9801-7757a1905e60)
+
   
