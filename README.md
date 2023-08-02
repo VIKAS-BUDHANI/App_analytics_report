@@ -20,7 +20,7 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
   Users                                23422
   New users                            22872
 
-  It should be same in values.
+  It should be the same in values.
 
   After considering the data discrepancy.
 
@@ -88,8 +88,11 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ![newplot (7)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/b6168378-72dc-4750-8862-065c98bf75e7)
 
 ### Top 10 interests of users for installing applications.
-* We can improve or keep maintain the area of user's interest. Most of the users and new users are using the app for shopping, media & entertainment comic and animation fans and technology. 
+* We can improve or keep maintain the area of user's interest. Most of the users and new users are using the app for shopping, media & entertainment comic and animation fans, and technology. 
 ![newplot (8)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/de697b84-5b62-4800-989e-27e0f447a2b5)
+
+### TOp 10 users interest having highest engaged sessions.
+![newplot (9)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/7ab3ae96-35a9-4c6a-8fe6-96892509726f)
 
 
   
