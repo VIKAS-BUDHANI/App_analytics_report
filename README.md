@@ -91,8 +91,11 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 * We can improve or keep maintain the area of user's interest. Most of the users and new users are using the app for shopping, media & entertainment comic and animation fans, and technology. 
 ![newplot (8)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/de697b84-5b62-4800-989e-27e0f447a2b5)
 
-### TOp 10 users interest having highest engaged sessions.
+### Top 10 users interested in having the highest engaged sessions.
 ![newplot (9)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/7ab3ae96-35a9-4c6a-8fe6-96892509726f)
+
+### Top 10 users interest for which they are converting.
+![newplot (10)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/53d292d0-ca1e-498b-8a76-3f855d3e5c16)
 
 
   
