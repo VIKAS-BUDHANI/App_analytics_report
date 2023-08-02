@@ -62,6 +62,15 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ### Top 10 cities of India.
 ![newplot (4)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/a7326e5b-80dc-4bae-a3a5-7126d3a70afc)
 
+### Gender Report.
+![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/72340eff-fbe3-414a-bc73-a6a5dd6e55e7)
+* User Gender percentage-wise report. already discuss about the unidentified category by "Unknown" have to be clear.
+[newplot (11)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/2f3e3882-8221-448e-a9f4-89e18a383aa0)
+* New user percentages by gender.
+![newplot (12)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/dec5f479-64a0-4efe-a2e3-05c1d38521b4)
+* Average time spending in app.
+![newplot (13)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/90f3defc-d9d9-424f-9c85-4d71222e88d7)
+
 ### User by age.
 ![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ae27b997-f244-4604-8746-6d9ea46835bf)
 * Based on the available data, the "unknown" category appears to have the highest number of users (14,303) and new users (13,636). To better understand and classify this category, further investigation and data analysis are needed.
@@ -96,6 +105,7 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 
 ### Top 10 users interest for which they are converting.
 ![newplot (10)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/53d292d0-ca1e-498b-8a76-3f855d3e5c16)
+
 
 
   
