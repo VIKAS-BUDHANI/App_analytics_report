@@ -59,6 +59,19 @@ As an intern in the Business Analytics team, your task is to analyze a provided 
 ### Citiwise report
 ![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/e89d16aa-d859-4e4d-940c-18842ea16f15)
 
-* Top 10 cities of India.
+### Top 10 cities of India.
 ![newplot (4)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/a7326e5b-80dc-4bae-a3a5-7126d3a70afc)
 
+### User by age.
+![image](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/ae27b997-f244-4604-8746-6d9ea46835bf)
+* Based on the available data, the "unknown" category appears to have the highest number of users (14,303) and new users (13,636). To better understand and classify this category, further investigation and data analysis are needed.
+* Apart from the "unknown" category, there is a notable introduction of users and new users from the 18-20 age group. This demographic represents a significant potential audience for the platform.
+* To capitalize on this opportunity and improve user acquisition from this age group, consider the following suggestions:
+  * User survey.
+  * Target Marketing.
+  * user onboarding.
+  *  social sharing.
+
+![newplot (5)](https://github.com/VIKAS-BUDHANI/App_analytics_report/assets/111237089/61e8672d-7e07-44ca-8cc7-ae899730cdeb)
+
+  
